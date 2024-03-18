@@ -1,6 +1,6 @@
 public class Result {
     String name;
-    
+    int A;
     int RE;
     int SDA;
     int SQAT;
