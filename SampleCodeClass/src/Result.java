@@ -42,6 +42,9 @@ public class Result {
         System.out.println("Testing 123");
     }
    
+   void Testing(){
+        System.out.println("Test Test");
+    }
 
 
 }
