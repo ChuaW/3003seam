@@ -38,6 +38,6 @@ public class Result {
         System.out.println("My Test");
     }
    
-    void myTest(){}
+
 
 }
