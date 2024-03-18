@@ -33,14 +33,6 @@ public class Result {
     void danielChong(){
         System.out.println("Testing");
     }
-
-  void myTest(){
-        System.out.println("My Test");
-    }
-
-    void Test(){
-        System.out.println("Testing 123");
-    }
    
    void Testing(){
         System.out.println("Test Test");
